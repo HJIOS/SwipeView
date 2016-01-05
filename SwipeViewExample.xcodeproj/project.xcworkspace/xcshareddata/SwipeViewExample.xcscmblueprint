@@ -1,0 +1,28 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FC40088D333CB251B62E2D47055FBEC85DC063C7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FC40088D333CB251B62E2D47055FBEC85DC063C7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D34B58BB-4FC7-4FAE-91C7-696ABCB6BF74",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FC40088D333CB251B62E2D47055FBEC85DC063C7" : "..\/SwipeView"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwipeViewExample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwipeViewExample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/HJIOS\/SwipeView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FC40088D333CB251B62E2D47055FBEC85DC063C7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/HJIOS\/SwipeView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FC40088D333CB251B62E2D47055FBEC85DC063C7"
+    }
+  ]
+}
